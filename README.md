@@ -1,7 +1,7 @@
 ### Ronald Barbosa 👋
 
-- 🔭 Hoje trabalho com pentest e projetos de automação com python
-- 🌱 Estudando "C" para análise de malware
+- Pentester
+- CTF Player
 
  <div>
   <a href="https://github.com/RonaldLSB">
