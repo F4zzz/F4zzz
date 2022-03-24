@@ -1,4 +1,4 @@
-###  F4 (https://beacons.ai/f4_zzz)
+###  F4 
 
 - Pentester
 - CTF Player
