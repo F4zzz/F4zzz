@@ -15,10 +15,6 @@
   <img align="center" alt="f4-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="f4-php" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </details>
- 
-</div>
-  <img align="right" alt="f4-yoda" height="200" width="200" src="https://avatars.githubusercontent.com/u/79203606?v=4">
-</div>
 
 <details open>
   <summary>Extra</summary>
@@ -29,12 +25,6 @@
   <img align="center" alt="f4-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </details>
 
-<details open>
-  <summary>Social</summary>
-  <a href="https://www.youtube.com/channel/UCiwijb7fnTlw6j4EAM9HihQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/7VRgfKbwJ4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  
-</details>
  
  ![](https://komarev.com/ghpvc/?username=RonaldLSB&style=for-the-badge&color=red)
  
