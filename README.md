@@ -27,14 +27,3 @@
 
  
  ![](https://komarev.com/ghpvc/?username=RonaldLSB&style=for-the-badge&color=red)
- 
----
-### F4 Stats
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-  <a href="https://github.com/RonaldLSB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldLSB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldLSB&layout=compact&langs_count=7&theme=radical"/>
-
-<img  src="https://activity-graph.herokuapp.com/graph?username=RonaldLSB&theme=dracula"  />
